@@ -1,3 +1,3 @@
 Hello.
-I am learning D language.
+I am learning Programing.
 
